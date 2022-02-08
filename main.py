@@ -1,4 +1,4 @@
 userNum = int(input())
 userNumSquared = userNum * userNum   
    
-print(userNumSquared, end='\n')       
+print(userNumSquared, end='\n')
